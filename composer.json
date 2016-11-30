@@ -1,5 +1,6 @@
 {
   "name": "metricloop/laravel-transformer-maker",
+  "version": "0.1",
   "description": "A Laravel 5 package to create Fractal Transformers",
   "keywords": [
     "metricloop",
